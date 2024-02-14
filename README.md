@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hello there!</h1>
 
-<!--
-**Karmazynowy121/Karmazynowy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page!
+I'm Jakub, Fullstack developer from 🇵🇱 <b>Poland</b>
 
-Here are some ideas to get you started:
+<h3>My Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,dotnet,cs,js,html,css,git,react,visualstudio,vscode)](https://skillicons.dev)
+
+Find me on:
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
