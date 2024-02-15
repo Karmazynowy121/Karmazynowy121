@@ -11,5 +11,7 @@ I'm Jakub, Fullstack developer from 🇵🇱 <b>Poland</b>
 Find me on:
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="mailto:twójadres@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
